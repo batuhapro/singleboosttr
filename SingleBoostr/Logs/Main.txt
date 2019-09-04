@@ -1,0 +1,10 @@
+[Main 4.9.2019 18:14:12] Info: Restart games is enabled every 60 minute.
+[Main 4.9.2019 18:14:12] Info: Started 2 games with session Idle
+[Main 4.9.2019 18:16:52] Info: Killed app Grand Theft Auto V
+[Main 4.9.2019 18:16:52] Info: Killed app Grand Theft Auto V
+[Main 4.9.2019 18:16:52] Info: Stopped None with 0 app errors.
+[Main 4.9.2019 18:17:00] Info: Restart games is enabled every 60 minute.
+[Main 4.9.2019 18:17:00] Info: Started 2 games with session Idle
+[Main 4.9.2019 18:21:51] Info: Killed app Grand Theft Auto V
+[Main 4.9.2019 18:21:51] Info: Killed app Grand Theft Auto V
+[Main 4.9.2019 18:21:51] Info: Stopped None with 0 app errors.
